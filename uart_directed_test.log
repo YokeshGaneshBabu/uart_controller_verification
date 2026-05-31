@@ -1,0 +1,110 @@
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 170000: uvm_test_top.env.agent.drv [DRV] data=0x0 parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 91450000: uvm_test_top.env.sb [SB] PASS: sent=0x0 got=0x0 baud=115200 parity=EVEN
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 91450000: uvm_test_top.env.agent.mon [MON] data=0x0 parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 95810000: uvm_test_top.env.agent.drv [DRV] data=0xff parity=ODD baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 187090000: uvm_test_top.env.sb [SB] PASS: sent=0xff got=0xff baud=115200 parity=ODD
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 187090000: uvm_test_top.env.agent.mon [MON] data=0xff parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 191450000: uvm_test_top.env.agent.drv [DRV] data=0xaa parity=NONE baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 274050000: uvm_test_top.env.sb [SB] PASS: sent=0xaa got=0xaa baud=115200 parity=NONE
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 274050000: uvm_test_top.env.agent.mon [MON] data=0xaa parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 278410000: uvm_test_top.env.agent.drv [DRV] data=0x55 parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 369690000: uvm_test_top.env.sb [SB] PASS: sent=0x55 got=0x55 baud=115200 parity=EVEN
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 369690000: uvm_test_top.env.agent.mon [MON] data=0x55 parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 374050000: uvm_test_top.env.agent.drv [DRV] data=0x0 parity=NONE baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 1363710000: uvm_test_top.env.sb [SB] PASS: sent=0x0 got=0x0 baud=9600 parity=NONE
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 1363710000: uvm_test_top.env.agent.mon [MON] data=0x0 parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 1415810000: uvm_test_top.env.agent.drv [DRV] data=0xff parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 2509630000: uvm_test_top.env.sb [SB] PASS: sent=0xff got=0xff baud=9600 parity=EVEN
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 2509630000: uvm_test_top.env.agent.mon [MON] data=0xff parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 2561730000: uvm_test_top.env.agent.drv [DRV] data=0xaa parity=ODD baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 3655550000: uvm_test_top.env.sb [SB] PASS: sent=0xaa got=0xaa baud=9600 parity=ODD
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 3655550000: uvm_test_top.env.agent.mon [MON] data=0xaa parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 3707650000: uvm_test_top.env.agent.drv [DRV] data=0x55 parity=ODD baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 4801470000: uvm_test_top.env.sb [SB] PASS: sent=0x55 got=0x55 baud=9600 parity=ODD
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 4801470000: uvm_test_top.env.agent.mon [MON] data=0x55 parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 4853570000: uvm_test_top.env.agent.drv [DRV] data=0x15 parity=NONE baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 5843230000: uvm_test_top.env.sb [SB] PASS: sent=0x15 got=0x15 baud=9600 parity=NONE
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 5843230000: uvm_test_top.env.agent.mon [MON] data=0x15 parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 5895330000: uvm_test_top.env.agent.drv [DRV] data=0x26 parity=ODD baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 6989150000: uvm_test_top.env.sb [SB] PASS: sent=0x26 got=0x26 baud=9600 parity=ODD
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 6989150000: uvm_test_top.env.agent.mon [MON] data=0x26 parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 7041250000: uvm_test_top.env.agent.drv [DRV] data=0x48 parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 8135070000: uvm_test_top.env.sb [SB] PASS: sent=0x48 got=0x48 baud=9600 parity=EVEN
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 8135070000: uvm_test_top.env.agent.mon [MON] data=0x48 parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 8187170000: uvm_test_top.env.agent.drv [DRV] data=0x7b parity=ODD baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 8278450000: uvm_test_top.env.sb [SB] PASS: sent=0x7b got=0x7b baud=115200 parity=ODD
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 8278450000: uvm_test_top.env.agent.mon [MON] data=0x7b parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 8282810000: uvm_test_top.env.agent.drv [DRV] data=0xbf parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 9376630000: uvm_test_top.env.sb [SB] PASS: sent=0xbf got=0xbf baud=9600 parity=EVEN
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 9376630000: uvm_test_top.env.agent.mon [MON] data=0xbf parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 9428730000: uvm_test_top.env.agent.drv [DRV] data=0x14 parity=NONE baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 9511330000: uvm_test_top.env.sb [SB] PASS: sent=0x14 got=0x14 baud=115200 parity=NONE
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 9511330000: uvm_test_top.env.agent.mon [MON] data=0x14 parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 9515690000: uvm_test_top.env.agent.drv [DRV] data=0x7a parity=ODD baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 10609510000: uvm_test_top.env.sb [SB] PASS: sent=0x7a got=0x7a baud=9600 parity=ODD
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 10609510000: uvm_test_top.env.agent.mon [MON] data=0x7a parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 10661610000: uvm_test_top.env.agent.drv [DRV] data=0xf1 parity=NONE baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 10744210000: uvm_test_top.env.sb [SB] PASS: sent=0xf1 got=0xf1 baud=115200 parity=NONE
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 10744210000: uvm_test_top.env.agent.mon [MON] data=0xf1 parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 10748570000: uvm_test_top.env.agent.drv [DRV] data=0x79 parity=NONE baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 10831170000: uvm_test_top.env.sb [SB] PASS: sent=0x79 got=0x79 baud=115200 parity=NONE
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 10831170000: uvm_test_top.env.agent.mon [MON] data=0x79 parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 10835530000: uvm_test_top.env.agent.drv [DRV] data=0x12 parity=ODD baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 10926810000: uvm_test_top.env.sb [SB] PASS: sent=0x12 got=0x12 baud=115200 parity=ODD
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 10926810000: uvm_test_top.env.agent.mon [MON] data=0x12 parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 10931170000: uvm_test_top.env.agent.drv [DRV] data=0xbc parity=NONE baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 11013770000: uvm_test_top.env.sb [SB] PASS: sent=0xbc got=0xbc baud=115200 parity=NONE
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 11013770000: uvm_test_top.env.agent.mon [MON] data=0xbc parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 11018130000: uvm_test_top.env.agent.drv [DRV] data=0x77 parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 11109410000: uvm_test_top.env.sb [SB] PASS: sent=0x77 got=0x77 baud=115200 parity=EVEN
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 11109410000: uvm_test_top.env.agent.mon [MON] data=0x77 parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 11113770000: uvm_test_top.env.agent.drv [DRV] data=0x43 parity=ODD baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 11205050000: uvm_test_top.env.sb [SB] PASS: sent=0x43 got=0x43 baud=115200 parity=ODD
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 11205050000: uvm_test_top.env.agent.mon [MON] data=0x43 parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 11209410000: uvm_test_top.env.agent.drv [DRV] data=0x20 parity=NONE baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 12199070000: uvm_test_top.env.sb [SB] PASS: sent=0x20 got=0x20 baud=9600 parity=NONE
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 12199070000: uvm_test_top.env.agent.mon [MON] data=0x20 parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 12251170000: uvm_test_top.env.agent.drv [DRV] data=0xe parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 12342450000: uvm_test_top.env.sb [SB] PASS: sent=0xe got=0xe baud=115200 parity=EVEN
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 12342450000: uvm_test_top.env.agent.mon [MON] data=0xe parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 12346810000: uvm_test_top.env.agent.drv [DRV] data=0xd parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 13440630000: uvm_test_top.env.sb [SB] PASS: sent=0xd got=0xd baud=9600 parity=EVEN
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 13440630000: uvm_test_top.env.agent.mon [MON] data=0xd parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 13492730000: uvm_test_top.env.agent.drv [DRV] data=0x1d parity=NONE baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 13575330000: uvm_test_top.env.sb [SB] PASS: sent=0x1d got=0x1d baud=115200 parity=NONE
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 13575330000: uvm_test_top.env.agent.mon [MON] data=0x1d parity=EVEN baud=115200
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 13579690000: uvm_test_top.env.agent.drv [DRV] data=0x3e parity=ODD baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 14673510000: uvm_test_top.env.sb [SB] PASS: sent=0x3e got=0x3e baud=9600 parity=ODD
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 14673510000: uvm_test_top.env.agent.mon [MON] data=0x3e parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 14725610000: uvm_test_top.env.agent.drv [DRV] data=0x70 parity=NONE baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 15715270000: uvm_test_top.env.sb [SB] PASS: sent=0x70 got=0x70 baud=9600 parity=NONE
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 15715270000: uvm_test_top.env.agent.mon [MON] data=0x70 parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(178) @ 15767370000: uvm_test_top.env.agent.drv [DRV] data=0xb3 parity=EVEN baud=9600
+# KERNEL: UVM_INFO /home/runner/testbench.sv(334) @ 16861190000: uvm_test_top.env.sb [SB] PASS: sent=0xb3 got=0xb3 baud=9600 parity=EVEN
+# KERNEL: UVM_INFO /home/runner/testbench.sv(262) @ 16861190000: uvm_test_top.env.agent.mon [MON] data=0xb3 parity=EVEN baud=9600
+# KERNEL: UVM_INFO ./uvm-1.2/src/base/uvm_objection.svh(1271) @ 16913790000: reporter [TEST_DONE] 'run' phase is ready to proceed to the 'extract' phase
+# KERNEL: UVM_INFO /home/runner/testbench.sv(345) @ 16913790000: uvm_test_top.env.sb [SB] RESULT: 28 PASS  0 FAIL
+# KERNEL: UVM_INFO /home/runner/testbench.sv(388) @ 16913790000: uvm_test_top.env.cov [COV] Functional Coverage = 100.00%
+# KERNEL: UVM_INFO ./uvm-1.2/src/base/uvm_report_server.svh(869) @ 16913790000: reporter [UVM/REPORT/SERVER] 
+# KERNEL: --- UVM Report Summary ---
+# KERNEL: 
+# KERNEL: ** Report counts by severity
+# KERNEL: UVM_INFO :   89
+# KERNEL: UVM_WARNING :    0
+# KERNEL: UVM_ERROR :    0
+# KERNEL: UVM_FATAL :    0
+# KERNEL: ** Report counts by id
+# KERNEL: [COV]     1
+# KERNEL: [DRV]    28
+# KERNEL: [MON]    28
+# KERNEL: [RNTST]     1
+# KERNEL: [SB]    29
+# KERNEL: [TEST_DONE]     1
+# KERNEL: [UVM/RELNOTES]     1
+# KERNEL: 
+# RUNTIME: Info: RUNTIME_0068 uvm_root.svh (521): $finish called.
+# KERNEL: Time: 16913790 ns,  Iteration: 57,  Instance: /tb_top,  Process: @INITIAL#571_7@.
+# KERNEL: stopped at time: 16913790 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# ACDB: Covergroup Coverage data has been saved to "fcover.acdb" database.
+# VSIM: Simulation has finished.
